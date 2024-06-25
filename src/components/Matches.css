@@ -1,0 +1,31 @@
+/* Matches.css */
+
+/* Styling for the entire table */
+table {
+    font-size: large;
+    width: 100%;
+    border-collapse: collapse; /* Ensures borders collapse into a single border between cells */
+    margin-top: 20px; /* Adjust margin as needed */
+  }
+  
+  /* Styling for table headers */
+  table th {
+    font-size: smaller;
+    color: black;
+    background-color: rgb(157, 153, 153); /* Light gray background for headers */
+    border: 1px solid black; /* Black border around headers */
+    padding: 8px; /* Padding inside headers */
+    cursor: pointer; /* Change cursor to pointer on hover for clickable headers */
+  }
+  
+  /* Styling for table cells */
+  table td {
+    border: 1px solid #ddd; /* Gray border around cells */
+    padding: 8px; /* Padding inside cells */
+  }
+  
+  /* Alternating row colors */
+  table tbody tr:nth-child(even) {
+    background-color: #256bb1; /* Blue background for even rows */
+  }
+  
