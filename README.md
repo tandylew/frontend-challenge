@@ -41,7 +41,7 @@ First name, Last name, Matches Count, and Average Level Match can be sorted in e
 
 All fields can be filtered. Adding values to multiple filter fields will display the intersection of these filters.
 
-A "Show All" button can be used to see all users. Click "Hide All" to navigate back to a paginated list. Previous and next buttons changes the current page, which is displayed at the bottom and whose value can be typed in (you may need to shift select of Ctrl+A to enter a new value here).
+A "Show All" button can be used to see all users. Click "Hide All" to navigate back to a paginated list. Previous and next buttons change the current page, which is displayed at the bottom and whose value can be typed in (you may need to shift select or Ctrl+A to enter a new value here).
 
 Clicking on any given row will take you to detailed information for that user including their name, email, picture, interests, and matches. Click "Go Back" if you wish to return to the previous page.
 
